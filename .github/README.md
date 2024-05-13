@@ -26,4 +26,4 @@
 </h3>
 
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/INDIANCODERS-1/SHUKLA-MUSIC"> <img src="https://graph.org/file/ae4827c40dd834ad0b925.jpg" width="520" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Bhola116/SHUKLA-MUSIC"> <imsrc="https://graph.org/file/ae4827c40dd834ad0b925.jpg" width="520" height="198.45"/></a></p>
