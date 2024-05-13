@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/INDIANCODERS-1/SHUKLA-MUSIC",
+    "https://github.com/Bhola116/SHUKLA-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/theind_coders")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/the_ind_coders")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/crunchyrollanimeinhindidubb")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Team_Shadow_Group")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/7063e3b0eac98dcc5734e.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/0ab350be407a75f5d723d.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/35f71c3ebde68a5d7fc23.jpg"
