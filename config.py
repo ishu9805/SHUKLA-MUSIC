@@ -141,13 +141,13 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/0ab350be407a75f5d723d.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/30ca3d86aeb520a20bb6e.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://telegra.ph/file/35f71c3ebde68a5d7fc23.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/181715eb83d6b2dc4c1a1.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/3e8be4617f67d7369b44a.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/f56c83c418ce6de16a427.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/ed0b0c4bdba0e5edae53c.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/181715eb83d6b2dc4c1a1.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/35f71c3ebde68a5d7fc23.jpg"
