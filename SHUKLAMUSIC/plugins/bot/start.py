@@ -3,8 +3,9 @@ import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
-from youtubesearchpython.future import VideosSearch
+from youtubesearchpython.__future__ import VideosSearch
 
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 import config
 from SHUKLAMUSIC import app
 from SHUKLAMUSIC.misc import _boot_
